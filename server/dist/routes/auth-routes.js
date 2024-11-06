@@ -3,7 +3,6 @@ import { User } from '../models/user.js';
 import jwt from 'jsonwebtoken';
 import bcrypt from 'bcrypt';
 export const login = async (req, res) => {
-    console.log('JWT_SECRET:', process.env.JWT_SECRET);
     const { username, password } = req.body;
     // Find the user by username
     const user = await User.findOne({ where: { username } });
