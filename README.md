@@ -12,7 +12,8 @@
   - [License](#license)
 
 ## Links
- My Github username is https://github.com/izzyfigueroa
+ Github link: https://github.com/IzzyFigueroa/kandan_board_app
+ Deployed link: https://kandan-board-app.onrender.com
 
  Please contact me at izzyfigueroa6@gmail.com
 
